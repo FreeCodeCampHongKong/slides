@@ -1,0 +1,37 @@
+Syntax: The structure of statements in a computer language.
+
+Variable: a container that store information
+$var - this is a variable, dollar sign is a symbol that defines a variable
+
+Data Type: A simply classification of data
+  String – a sequence of character
+    $var = “this is a string”
+  Integer – numbers
+    $var = 5
+  Float – decimal number
+    $var = 5.5
+  Boolean – true and false
+    $var = false
+  Array – a set of values
+    $var = array()
+    $var = []
+    
+A variable can be a different format of data type
+
+Function: Function is a named procedure that performs a distinct service 
+
+To write a function in PHP as following: -
+function thisIsAFunction() {
+  // write any function here
+} 
+
+Comment: in case we have forgot what we have did in your PHP script, comment is a layman sentence that make you and other understand what you are doing in a particular script. 
+
+Script: a set of algorithm written in a file
+
+Algorithm: procedures to solve a problem
+
+Loop: continuously execute a function or an array until the end of it.
+For($i = 0; $i < 10, $i ++){
+  // code goes here
+}
