@@ -1,0 +1,5 @@
+Here are some other links that could be useful for starting github
+1. https://guides.github.com/activities/hello-world/ - A step by step guide for GitHub
+2. https://youtu.be/w3jLJU7DT5E - A video explaining GitHub
+3. https://pages.github.com/ - A step by step guide to creat GitPages
+4. http://rogerdudler.github.io/git-guide/ - A guide for using #Git#
